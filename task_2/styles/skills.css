@@ -1,0 +1,37 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.skills{
+    background-color:aquamarine;
+    padding-bottom:30px;;
+}
+
+h2{
+    font-size: 40px;
+    text-align: center;
+    margin: 0;
+    padding: 40px;
+}
+
+.skills-list{
+    display: flex;
+    flex-direction: column;
+    /* text-align: center; */
+    font-size: 30px;
+    margin-left: 50px;
+}
+
+.skill{
+    margin: 0;
+    font-weight: bold;
+}
+
+.skill-design{
+    background-color: aqua;
+    border: 5px solid;
+    border-radius: 20px;
+    padding: 30px;
+    margin: 20px 20px 0 20px;
+}

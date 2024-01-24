@@ -1,0 +1,35 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+.education{
+    background-color: aquamarine;
+    text-align: center;
+    height: 100%;
+    padding-bottom: 20px;
+}
+
+
+h1{
+    margin: 0;
+    padding: 40px;
+}
+
+.degree{
+    background-color: aqua;
+    border: 5px solid;
+    border-radius: 20px;
+    margin: 20px 20px 0px 20px;
+    padding: 20px;
+}
+
+h2{
+    font-size: 40px;
+    margin: 0;
+}
+
+p{
+    font-size: 30px;
+    margin: 20px;
+}
